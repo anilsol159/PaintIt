@@ -1,0 +1,41 @@
+Privacy Policy:
+
+PaintIt respects your privacy and is committed to protecting your personal information. This Privacy Policy outlines how PaintIt handles data within the app.
+
+Data Collection:
+
+PaintIt does not collect or store any personal information or data from users.
+The app only accesses images stored in your device's gallery when you explicitly choose to load them for editing or drawing.
+
+
+Data Usage:
+
+All drawings and edited images created within PaintIt are stored locally on your device.
+PaintIt does not transmit, share, or upload any user-generated content to external servers or third parties.
+
+
+Permissions:
+
+PaintIt may request permissions to access your device's storage to save and load images. These permissions are solely used for the app's core functionality and do not involve data transmission.
+
+
+AdMob Integration:
+
+PaintIt integrates AdMob, a third-party advertising service provided by Google, to display ads within the app.
+AdMob may collect and use non-personal information (such as device information, ad impressions, clicks, and interactions) for ad personalization and measurement purposes.
+You can learn more about AdMob's data collection and usage practices by referring to Google's Privacy Policy: Google Privacy Policy.
+
+
+Third-Party Services:
+
+Other than AdMob, PaintIt does not use any third-party services, analytics tools, or advertising networks that collect user data.
+
+
+Security:
+
+PaintIt takes measures to protect your data stored on your device, including drawings and edited images. However, we recommend regular backups to safeguard your creations.
+
+
+Contact Us:
+
+If you have any questions or concerns regarding your privacy while using PaintIt, please contact us at techspy159@gmail.com.
